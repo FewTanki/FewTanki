@@ -1,5 +1,5 @@
 # FewTanki
-[![Discord](https://img.shields.io/discord/1233336064052301835?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&link=https%3A%2F%2Fdiscord.gg%2Feuug57b7NQ)](https://discord.gg/7KhydeWBkP)
+[![Discord](https://discord.gg/7KhydeWBkP)
 <div align="center">
 
 ## Особенности
